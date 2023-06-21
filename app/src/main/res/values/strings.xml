@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spiice</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="skip">Skip</string>
+    <string name="workhard">work hard and level up</string>
+    <string name="enjoy">enjoy your progess</string>
+    <string name="logout">-- logout</string>
+    <string name="spiice">Spiice</string>
+    <string name="discover">Discover the platform</string>
+    <string name="you_have_an_account_log_in">You have an account? log-in</string>
+    <string name="find">find projects from companies everywhere in the word</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="login">Log-in</string>
+</resources>
